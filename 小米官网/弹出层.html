@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>弹出层</title>
+    <style>
+        *{
+            margin: 0 ;
+            padding: 0;
+        }
+/*        html,body{
+            height: 100%;
+        }*/
+        #mask{
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: #000 ;
+            opacity: 0.3;
+            filter: alpha(opacity=30); /*(IE8的语法 透明度)*/
+        }
+        #content {
+            width: 760px;
+            height: 540px;
+            background: #ffffff ;
+            position: absolute;
+            left: 50%;
+            margin-left: -380px;/*(使其向左居中 先百分之五十再使其外边距向左移动自身宽度一半)*/
+            top: 50%;
+            margin-top: -270px;
+            z-index: 1;/*(使其层级往前 Z轴 数值越大越前)*/
+
+
+        }
+        /*hd开始*/
+        #content .content-hd {
+            position: relative;
+            height: 32px;
+            padding: 14px 20px;
+            background-color: #f5f5f5;
+        }
+        #content .content-hd .title {
+            margin: 0;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 32px;
+            color: #424242;
+        }
+        #content .content-hd .close{
+            position: absolute;
+            top: 14px;
+            right: 14px;
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            color: #757575;
+            cursor: pointer;
+            z-index: 10;
+            border-radius: 50%;/*(使其圆角)*/
+        }
+        #content .content-hd .close:hover{
+            background: red;
+        }
+        /*hd结束*/
+        /*bd开始*/
+        #content .content-bd {
+            position: relative;
+            max-height: 400px;
+            padding: 40px 60px;
+            text-align: center;
+        }
+        #content .content-bd h3{
+            color: #424242;
+            font-size: 32px;
+            margin: 0;
+        }
+        #content .content-bd .concent-globalSites-tips {
+            margin: 0;
+            font-size: 18px;
+        }
+        #content .content-bd .concent-globalSites-links{
+            margin: 30px auto 0;
+        }
+        #content .content-bd .concent-globalSites-links a {
+            display: inline-block ;
+            float: left;
+            margin: 0 10px 20px;
+            width: 140px;
+            height: 40px;
+            line-height: 40px;
+            background-color: #eee;
+            color: #757575;
+            text-decoration: none;
+        }
+        #content .content-bd .concent-globalSites-links a:hover {
+            background: orangered ;
+            color: #eeeeee;
+        }
+            /*bd结束*/
+        body {
+            font: 14px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+            color: #333;
+            background-color: #fff;
+            min-width: 1226px;
+        }
+        div{
+            display: block;
+        }
+        p{
+            display: block;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div id="mask"></div>
+    <div id="content">
+        <div class="content-hd" >
+            <span class="title">Select Region</span>
+            <div class="close">
+                ×
+
+            </div>
+
+        </div>
+        <div class="content-bd">
+            <h3>Welcome to Mi.com</h3>
+            <p class="concent-globalSites-tips">Please select your country or region</p>
+            <p class="concent-globalSites-links clearfix">
+                <a href="#" >Mainland China</a>
+                <a href="#" >Hong Kong</a>
+                <a href="#" >Taiwan</a>
+                <a href="#" >Singapore</a>
+                <a href="#" >Malaysia</a>
+                <a href="#" >Philippines</a>
+                <a href="#" >India</a>
+                <a href="#" >Indonesia</a>
+                <a href="#" >Global Home</a>
+                <a href="#" >MENA</a>
+                <a href="#" >Poland</a>
+                <a href="#" >Ukraine</a>
+                <a href="#" >Russia</a>
+                <a href="#" >Vietnam</a>
+                <a href="#" >Mexico</a>
+                <a href="#" >Korea</a>
+                <a href="#" >Egypt</a>
+                <a href="#" >Thailand</a>
+            </p>
+        </div>
+
+</body>
+</html>

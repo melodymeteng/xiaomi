@@ -261,9 +261,7 @@ img{
     right: 0;
     top: 40px;
     display: none;
-}
-.icon-cart{
-    font-size:50px;
+    z-index: 2;
 }
 /*nav 结束*/
 
@@ -292,6 +290,7 @@ img{
 .header-menu .menu-item:hover .sub-menu  {
     display: block;
     animation: slide 0.5s ease-in forwards;
+    z-index: 3;
 }
 @keyframes slide {
     100%{
@@ -315,6 +314,7 @@ img{
     box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.15);
     display: none;
     overflow: hidden;
+    z-index: 2;
 }
 .sub-menu ul{
     overflow: hidden;
@@ -328,7 +328,7 @@ img{
     text-align: center;
     position: relative;
 }
-.flags,.flagss {
+.flags {
     height: 17px;
     line-height: 17px;
     margin-bottom: 17px;
@@ -338,9 +338,6 @@ img{
     color:#ff6700;
     font-size:12px;
     padding: 1px 14px;
-}
-.flagss span{
-    display: none;
 }
 .p-img{
     height: 110px;
@@ -367,6 +364,62 @@ img{
     top:36px;
     background: #b0b0b0 ;
 }
+.search {
+    width: 296px;
+    height: 50px;
+    float:right;
+    margin-top:20px;
+    position: relative;
+}
+.search-txt {
+    width: 224px;
+    height: 48px;
+    border: 1px solid  #e0e0e0;
+    outline: none ;
+    padding: 0 10px;
+    float:left;
+}
+.search-btn {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #e0e0e0;
+    cursor: pointer;
+    position: relative;
+    background:transparent ;
+    outline:none;
+    z-index: 1;
+}
+.search-btn:hover+i{
+     background: #ff6700 ;
+}
+
+.icon-ser  {
+    position: absolute;
+    right: 0;
+    top:0;
+    width: 50px;
+    height: 50px;
+    display: block;
+    line-height: 50px;
+    text-align: center;
+}
+.search-item {
+    top:16px;
+    right: 62px;
+    text-align: right ;
+    position: absolute;
+}
+.search-item1 {
+    display: inline-block;
+    padding: 0 5px;
+    font-size: 12px;
+    color: #757575;
+    background: #eeeeee  ;
+}
+.search-item1:hover {
+    background: #ff6700 ;
+}
 /*header 结束*/
+
 
 

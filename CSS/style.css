@@ -389,10 +389,13 @@ img{
     outline:none;
     z-index: 1;
 }
+/*.search-btn:hover{
+    background: #ff6700;
+    color: #757575;
+}*/
 .search-btn:hover+i{
      background: #ff6700 ;
 }
-
 .icon-ser  {
     position: absolute;
     right: 0;
@@ -418,6 +421,14 @@ img{
 }
 .search-item1:hover {
     background: #ff6700 ;
+}
+.icon-search{
+    display: block;
+    height: 47px;
+    line-height: 47px;
+    margin-top:-50px;
+    text-align: center;
+    font-size: 24px;
 }
 /*header 结束*/
 

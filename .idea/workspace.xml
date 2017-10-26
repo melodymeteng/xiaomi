@@ -2,135 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a12c1c5b-1fee-41ea-a794-58af5413ae8b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/20170707135935.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4A43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5Battery1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5c_80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6580side.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6ef55907-bbed-49be-a2bb-be0821b5f7b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/725a37e3-78b7-4298-8098-c40097bf179d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/7Battery1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80-5a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/805a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80pc-5x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80x80 (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80x80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80xmds_49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80xmds_55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/80xmds_65.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/T1ZYC_BjWv1RXrhCrK.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/USBC80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/VRPLAY2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/WechatIMG605.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bijiben80 (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bijiben80 (2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bijiben80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bjbcdq80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bluetoothheadset.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/c1xb343.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chechong1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chongdianqi-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/compare.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/czjhq80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/d78fc81d-8713-43fe-8387-17f31b4b0745.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/de35852a-1be5-4ef5-846f-dcdd2efcfea6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dianfanbao-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dianhuashoubiao80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dianshipeijian.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dianyuan280.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dianyuanfujian.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/djj80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ertong1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fhz80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fhzlyyx80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gushiji80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hezi80-80 (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hezi80-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hezizengqiangban80side.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hm4-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hm4x_80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hmn4x80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/huabanche80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/huiyuan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/huosai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconaz80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jiaonang80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jinghuaqilvxin80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jingshuiqiandlvxin-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jiqiren.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jly80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/luyouqi-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/max2_80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mifenka-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mimobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mituyinx80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mix2-80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/naozhong80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/neidanbao80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/note3-80-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/p-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/p-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/p-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/p-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/p-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phcplus80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pinpai80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pms_1503909150.67293503!220x220.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pocketaudio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/qtpro80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/quantie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/scale.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shouhuan280.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shubiao80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shuihu80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/suishen-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tdsqs80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/toudai80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/usbzjqggg80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vga.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wlyx80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wurenji80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wxsb80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiaobai80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiaogangpao2-hei-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xm5S-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xm5S-plus-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xm6_80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmNOTE2-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_1489401341687_vUojl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_14966625747867_qcTyh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_14972549116226_tZpod.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_14998442103443_TgVEY.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_15027986766869_deJyE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_15067798057483_gquZc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_15077710101165_EjQbI.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_15078617619273_gRwzn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmad_15082970588295_zXSbw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmjzej80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xmsbd80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xp80_49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xp80_55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xp80_65.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xueyaji-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yashua80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yidongdianyuan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ymjp80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yundong80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zhinengdeng-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zhinengjiatingtaozhuang-80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/znyjdaohang.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zuodaohang.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zxc80-80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iconfont/iconfont.eot" afterPath="$PROJECT_DIR$/iconfont/iconfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iconfont/iconfont.ttf" afterPath="$PROJECT_DIR$/iconfont/iconfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iconfont/iconfont.woff" afterPath="$PROJECT_DIR$/iconfont/iconfont.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/iconfont.css" afterPath="$PROJECT_DIR$/CSS/iconfont.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/index.css" afterPath="$PROJECT_DIR$/CSS/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iconfont/iconfont.svg" afterPath="$PROJECT_DIR$/iconfont/iconfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -159,7 +33,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -275,15 +149,24 @@
       <option name="presentableId" value="Default" />
       <updated>1508037557585</updated>
       <workItem from="1508037559059" duration="291000" />
-      <workItem from="1508662289783" duration="6000" />
+      <workItem from="1508662289783" duration="123000" />
+      <workItem from="1509018679830" duration="2000" />
     </task>
+    <task id="LOCAL-00001" summary="jjjj">
+      <created>1508662318190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508662318190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297000" />
+    <option name="totallyTimeSpent" value="416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -309,6 +192,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jjjj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jjjj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

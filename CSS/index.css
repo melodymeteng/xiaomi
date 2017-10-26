@@ -1,7 +1,7 @@
 /*公有样式*/
 /*轮播图开始*/
 body{
-    height: 1999px;
+    height: 9999px;
 }
 .slide {
     position: relative;
@@ -407,8 +407,100 @@ body{
     color: #ff6700;
     border-bottom: 2px solid #ff6700;
 }
+.box-bd-left{
+    float: left;
+    width: 234px;
+    height: 614px;
+}
 .box-bd-right{
     margin-left:14px;
+    width: 992px;
+    height: 614px;
+    overflow: hidden;
+}
+.bd-ul{
+    float: left;
+}
+.bd-ul li{
+    width: 234px;
+    padding: 34px 0 22px 0;
+    margin: 0 0 14px 14px;
+    background: #fff;
+    float: left;
+    position: relative;
+}
+.bd-img-a{
+    display: block;
+    width: 150px;
+    height: 156px;
+    margin: 0 auto 18px;
+}
+.bd-img{
+    width: 150px;
+    height: 150px;
+}
+.bd-title{
+    display: block;
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+}
+.bd-dest{
+    margin: 0 10px 10px;
+    height: 18px;
+    text-align: center;
+    font-size: 12px;
+    color:#b0b0b0;
+}
+.bd-price{
+    color: #ff6700;
+    text-align: center;
+}
+.bd-price del{
+    color: #b0b0b0;
+}
+.bd-flag{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 64px;
+    height: 20px;
+    margin-left:-32px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align:center;
+    color: #fff;
+    z-index: 2;
+    background: red;
+}
+.bd-right-one{
+    width: 234px;
+    height: 93px;
+    position: relative;
+}
+.bd-one-img{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    right: 20px;
+    top: 0px;
+}
+.bd-one-price{
+    margin: 0 110px 0 30px;
+    font-size: 12px;
+    color: #ff6700;
+    height: 21px;
+    width: 94px;
+    margin-top: 40px;
+    position: absolute;
+}
+.bd-one-title{
+    color: #333333;
+    float: left;
+    margin-left:30px;
+    margin-top:8px;
+    font-size: 14px;
+    font-weight: 400;
 }
 /*产品菜单结束*/
 

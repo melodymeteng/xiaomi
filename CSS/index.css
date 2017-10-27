@@ -369,6 +369,7 @@ body{
 /*产品菜单开始*/
 .home-main {
     padding-top: 60px;
+    height: 9999px;
 }
 .page-main {
     background: #f5f5f5;
@@ -383,8 +384,8 @@ body{
 }
 .box-hd .title{
     margin: 0;
-    font-size: 22px;
-    font-weight:500;
+    font-size: 24px;
+    font-weight:200;
     line-height: 58px;
     color: #333333;
 }
@@ -413,10 +414,9 @@ body{
     height: 614px;
 }
 .box-bd-right{
-    margin-left:14px;
     width: 992px;
     height: 614px;
-    overflow: hidden;
+    float: left;
 }
 .bd-ul{
     float: left;
@@ -428,6 +428,16 @@ body{
     background: #fff;
     float: left;
     position: relative;
+    top: 0;
+}
+.bd-ul .bd-ul-sub{
+    position: relative;
+    width: 234px;
+    padding-top: 28px;
+    height: 93px;
+    margin: 0 0 14px 14px;
+    background: #fff;
+    float: left;
 }
 .bd-img-a{
     display: block;
@@ -471,9 +481,23 @@ body{
     text-align:center;
     color: #fff;
     z-index: 2;
-    background: red;
+    background: #e53935;
 }
-.bd-right-one{
+.bd-flag1{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 64px;
+    height: 20px;
+    margin-left:-32px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align:center;
+    color: #fff;
+    z-index: 2;
+    background: #83c44e;
+}
+.bd-right-one,.bd-right-two{
     width: 234px;
     height: 93px;
     position: relative;
@@ -501,6 +525,235 @@ body{
     margin-top:8px;
     font-size: 14px;
     font-weight: 400;
+}
+.icon-jiantou-top{
+    float: right;
+    color: #ff6700;
+    font-size: 53px;
+    font-weight:500;
+    margin-top: -4px;
+    margin-right:30px;
+}
+.bd-two-title{
+    color: #333;
+    font-size: 18px;
+    display: block;
+    margin: 15px 110px 0 30px;
+
+}
+.bd-two-price{
+    color: #b0b0b0;
+    font-size: 10px;
+    display: block;
+    margin: 0 110px 0 30px;
+}
+.bd-review{
+    position: absolute;
+    height: 0px;
+    left: 0;
+    bottom:0;
+    background: #ff6700;
+    overflow: hidden;
+}
+.bd-review a{
+    padding:8px 30px;
+    display: block;
+}
+.review{
+    color: #ffffff;
+    font-size: 12px;
+    display: block;
+}
+.author {
+    color: rgba(255,255,255,0.6);
+    font-size: 12px;
+}
+.box-bd-right li:hover .bd-review{
+    animation: appaer 0.3s ease-in forwards ;
+    background: red;
+}
+@keyframes appaer {
+    100%{
+        height: 76px;
+    }
+}
+.box-bd-right li:hover{
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
+    animation: run 0.3s ease forwards;
+}
+@keyframes run  {
+    100%{
+        top:-2px;
+    }
+}
+.riview-list{
+    width: 1226px;
+    height: 415px;
+}
+.riview-item{
+    width: 296px;
+    height: 415px;
+    margin-bottom: 14px;
+    background: #fff;
+    float: left;
+    /*transition: all .2s linear;*/
+ }
+.riview-item-next{
+    margin: 0 0 14px 14px;
+}
+.bd-img-riview img{
+    width: 296px;
+    height: 226px;
+    margin-bottom: 28px;
+}
+.riview-item .riview{
+    height: 72px;
+    margin: 0 28px 22px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    overflow: hidden;
+}
+.riview-item .riview a{
+    color: #333333;
+}
+.riview-item .author{
+    position: relative;
+    height: 18px;
+    margin:0 28px 8px;
+    padding: 0 10px 0 0;
+    font-size: 12px;
+    color: #b0b0b0;
+}
+.riview-item .info{
+    margin:0 30px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.info a{
+    color: #333333;
+}
+.info .num{
+    color: #ff6700;
+}
+.info .sep{
+    margin:0;
+    font-family: sans-serif;
+    color:#e0e0e0;
+}
+.content-item{
+    position: relative;
+    float: left;
+    width: 296px;
+    height: 374px;
+    padding: 45px 0 0;
+    border-top: 1px solid #e0e0e0;
+    margin-left: 14px;
+    margin-bottom: 14px;
+    background: #fff;
+}
+.content-list .content-item-first{
+    margin-left:0;
+}
+.content-item-book{
+    border-top-color:#ffac13;
+    color: #ffac13;
+}
+.content-item-theme{
+    border-top-color:#83c44e;
+    color: #83c44e;
+}
+.content-item-game{
+    border-top-color:#e53935;
+    color: #e53935;
+}
+.content-item-app{
+    border-top-color:#2196f3;
+    color: #2196f3;
+}
+.content-item .title{
+    margin:0 10px 18px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.content-btn .name{
+    color: #333;
+    text-align: center;
+    display: block;
+    margin: 0 20px 5px 20px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.25;
+}
+.content-btn .desc{
+    display: block;
+    margin:0 48px 10px;
+    height: 40px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: #b0b0b0;
+    width: 200px;
+}
+.content-btn .price{
+    display: block;
+    width: 276px;
+    height: 21px;
+    margin: 0 10px 15px 10px;
+    text-align: center;
+    color: #333333;
+}
+.content-btn .img{
+    width: 216px;
+    height: 154px;
+    margin: 0 40px;
+    display: block;
+}
+.content-btn .btn-img{
+    width: 216px;
+    height: 154px;
+}
+.content-item .content-pager{
+    position: absolute;
+    bottom:15px;
+    left: 0;
+    width: 296px;
+    text-align: center;
+}
+.pagers{
+    margin: 0;
+    padding: 0;
+}
+.pagers .pager{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    margin: 0 2px;
+    cursor:pointer;
+}
+.pagers .dot{
+    display: block;
+    width: 5px;
+    height: 5px;
+    border: 2px solid #f5f5f5;
+    border-radius: 50%;
+    text-align: left;
+    overflow: hidden;
+    background: #b0b0b0;
+}
+.pagers .pager-active .dot, .pagers .pager-active:hover .dot {
+    border-color: #ff6700;
+    background-color: #f5f5f5;
+    background-color: transparent;
+}
+.pagers .pager:hover .dot{
+    background: #ff6700;
+}
+.pagers .pager-active{
+    cursor: default;
+    /*单独选中它让它不变小手*/
 }
 /*产品菜单结束*/
 

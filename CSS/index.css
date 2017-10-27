@@ -369,10 +369,11 @@ body{
 /*产品菜单开始*/
 .home-main {
     padding-top: 60px;
-    height: 9999px;
+    height: 5000px;
 }
 .page-main {
     background: #f5f5f5;
+    position: relative;
 }
 .home-box{
     height: 686px;
@@ -380,7 +381,6 @@ body{
 }
 .box-hd{
     height: 58px;
-    position: relative;
 }
 .box-hd .title{
     margin: 0;
@@ -408,6 +408,9 @@ body{
     color: #ff6700;
     border-bottom: 2px solid #ff6700;
 }
+.box-bd{
+    position: relative;
+}
 .box-bd-left{
     float: left;
     width: 234px;
@@ -420,6 +423,15 @@ body{
 }
 .bd-ul{
     float: left;
+}
+.box-bd-left li{
+    top: 0;
+    position: absolute;
+}
+.box-bd-left a{
+    display: block;
+    width: 234px;
+    height: 614px;
 }
 .bd-ul li{
     width: 234px;
@@ -581,6 +593,10 @@ body{
     box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
     animation: run 0.3s ease forwards;
 }
+.box-bd-left li:hover{
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
+    animation: run 0.3s ease forwards;
+}
 @keyframes run  {
     100%{
         top:-2px;
@@ -589,6 +605,7 @@ body{
 .riview-list{
     width: 1226px;
     height: 415px;
+
 }
 .riview-item{
     width: 296px;
@@ -596,6 +613,8 @@ body{
     margin-bottom: 14px;
     background: #fff;
     float: left;
+    top: 0;
+    position: relative;
     /*transition: all .2s linear;*/
  }
 .riview-item-next{
@@ -630,6 +649,15 @@ body{
     font-size: 14px;
     font-weight: 400;
 }
+.riview-item:hover{
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
+    animation: riview-run 0.3s ease forwards;
+}
+@keyframes riview-run  {
+    100%{
+        top:-2px;
+    }
+}
 .info a{
     color: #333333;
 }
@@ -641,6 +669,8 @@ body{
     font-family: sans-serif;
     color:#e0e0e0;
 }
+/*产品菜单结束*/
+/*内容开始*/
 .content-item{
     position: relative;
     float: left;
@@ -677,6 +707,32 @@ body{
     font-weight: 400;
     text-align: center;
 }
+.content-menu{
+    overflow: hidden;
+}
+.content-item-book .content-btn{
+    width: 888px;
+}
+.content-item-game .content-btn{
+    width: 888px;
+}
+.content-item-theme .content-btn{
+    width: 1184px;
+}
+.content-item-app .content-btn{
+    width: 1184px;
+}
+.content-item .content-btn{
+    text-align: center;
+    overflow: hidden;
+    margin:0;
+    padding: 0;
+    color: #333333;
+}
+.content-item .content-btn li{
+    float: left;
+    width: 296px;
+}
 .content-btn .name{
     color: #333;
     text-align: center;
@@ -705,9 +761,7 @@ body{
     color: #333333;
 }
 .content-btn .img{
-    width: 216px;
-    height: 154px;
-    margin: 0 40px;
+    text-align: center;
     display: block;
 }
 .content-btn .btn-img{
@@ -755,6 +809,81 @@ body{
     cursor: default;
     /*单独选中它让它不变小手*/
 }
-/*产品菜单结束*/
+.con-back,.con-gengduo{
+    opacity: 0;
+    width: 20px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    background: #e0e0e0;
+    color: #fafafa;
+    position: absolute;
+    top: 50%;
+    font-weight: 700;
+}
+.con-back{
+    left: 0;
+}
+.con-gengduo{
+    right: 0;
+}
+.content-item:hover .con-back{
+    opacity: 1;
+}
+.con-back:hover{
+    background: #b0b0b0;
+}
+.content-item:hover .con-gengduo{
+    opacity: 1;
+}
+.con-gengduo:hover{
+    background: #b0b0b0;
+}
+.content-item:hover{
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
+    animation: con-run 0.3s ease forwards;
+}
+@keyframes con-run  {
+    100%{
+        top:-2px;
+    }
+}
+.page-main .pro-ul{
+    top: 0;
+    position: relative;
+    float: left;
+}
+.page-main .pro-ul li{
+    border-top-color:#ffffff;
+}
+.page-main .pro-ul li:hover{
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.18);
+    animation: con-show 0.3s ease forwards;
+}
+@keyframes con-show  {
+    100%{
+        top:-2px;
+    }
+}
+/*内容结束*/
+/*底部开始*/
+.list-service{
+    padding: 27px 0;
+    overflow: hidden;
+    border-bottom: 1px solid #e0e0e0;
+}
+.list-service li{
+    width: 243px;
+    text-align: center;
+    float: left;
+}
+.list-service li::after{
+    content: '';
+
+}
+.list-service li a{
+    color: #616161;
+}
+/*底部结束*/
 
 

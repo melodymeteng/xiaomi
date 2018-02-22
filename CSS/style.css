@@ -185,6 +185,7 @@ img{
 .wrapper{
     width: 1226px;
     margin: 0 auto;
+    position: relative;
 }
 /*公共样式*/
 /*banner 开始*/

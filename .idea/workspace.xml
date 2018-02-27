@@ -44,8 +44,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+            <state relative-caret-position="638">
+              <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -232,7 +232,7 @@
       <workItem from="1519309608855" duration="4222000" />
       <workItem from="1519400698059" duration="644000" />
       <workItem from="1519574215009" duration="1253000" />
-      <workItem from="1519730536330" duration="6000" />
+      <workItem from="1519730536330" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="jjjj">
       <created>1508662318190</created>
@@ -318,11 +318,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519608318743</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="开始完善小米官网.">
+      <created>1519730549471</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1519730549471</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10578000" />
+    <option name="totallyTimeSpent" value="10660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
@@ -358,9 +365,9 @@
     <MESSAGE value="完善了底部之前的动画效果" />
     <MESSAGE value="22" />
     <MESSAGE value="开始完善小米官网1" />
-    <MESSAGE value="开始完善小米官网." />
     <MESSAGE value="开始完善小米官网" />
-    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网" />
+    <MESSAGE value="开始完善小米官网." />
+    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -528,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        <state relative-caret-position="638">
+          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
           <folding />
         </state>
       </provider>

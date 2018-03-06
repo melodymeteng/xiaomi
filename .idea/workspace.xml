@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a12c1c5b-1fee-41ea-a794-58af5413ae8b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/js/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -241,7 +240,7 @@
       <workItem from="1520173512512" duration="617000" />
       <workItem from="1520256599485" duration="537000" />
       <workItem from="1520341896077" duration="118000" />
-      <workItem from="1520346230517" duration="13000" />
+      <workItem from="1520346230517" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="jjjj">
       <created>1508662318190</created>
@@ -397,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520256613207</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="开始完善小米官网.">
+      <created>1520346249658</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1520346249658</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14566000" />
+    <option name="totallyTimeSpent" value="14580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
@@ -438,9 +444,9 @@
     <MESSAGE value="22" />
     <MESSAGE value="开始完善小米官网1" />
     <MESSAGE value="开始完善小米官网.." />
-    <MESSAGE value="开始完善小米官网." />
     <MESSAGE value="开始完善小米官网" />
-    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网" />
+    <MESSAGE value="开始完善小米官网." />
+    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

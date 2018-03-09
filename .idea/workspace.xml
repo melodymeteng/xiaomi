@@ -44,8 +44,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+            <state relative-caret-position="620">
+              <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -108,7 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -137,7 +137,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,7 +245,8 @@
       <workItem from="1520436610901" duration="39000" />
       <workItem from="1520519353086" duration="705000" />
       <workItem from="1520520501275" duration="344000" />
-      <workItem from="1520520859914" duration="6000" />
+      <workItem from="1520520859914" duration="24000" />
+      <workItem from="1520609413142" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="jjjj">
       <created>1508662318190</created>
@@ -436,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520520511110</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="开始完善小米官网..">
+      <created>1520520873173</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1520520873173</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15704000" />
+    <option name="totallyTimeSpent" value="15728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
@@ -476,10 +484,10 @@
     <MESSAGE value="完善了底部之前的动画效果" />
     <MESSAGE value="22" />
     <MESSAGE value="开始完善小米官网1" />
-    <MESSAGE value="开始完善小米官网.." />
     <MESSAGE value="开始完善小米官网" />
     <MESSAGE value="开始完善小米官网." />
-    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网." />
+    <MESSAGE value="开始完善小米官网.." />
+    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -879,8 +887,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        <state relative-caret-position="620">
+          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
           <folding />
         </state>
       </provider>

@@ -52,7 +52,6 @@ iBack.onclick=function () {
    iBack.classList.remove('icon-active');
     iMore.classList.add('icon-active');
 
-
 };
 
 

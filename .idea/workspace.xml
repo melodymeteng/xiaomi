@@ -44,8 +44,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+            <state relative-caret-position="589">
+              <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -108,8 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -263,7 +263,8 @@
       <workItem from="1521644110487" duration="612000" />
       <workItem from="1521724888677" duration="37000" />
       <workItem from="1521817466493" duration="614000" />
-      <workItem from="1521985278314" duration="7000" />
+      <workItem from="1521985278314" duration="20000" />
+      <workItem from="1522075322971" duration="119000" />
     </task>
     <task id="LOCAL-00001" summary="jjjj">
       <created>1508662318190</created>
@@ -587,11 +588,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521817478785</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="开始完善小米官网.">
+      <created>1521985295813</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1521985295813</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19377000" />
+    <option name="totallyTimeSpent" value="19509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
@@ -628,9 +636,9 @@
     <MESSAGE value="22" />
     <MESSAGE value="开始完善小米官网1" />
     <MESSAGE value="开始完善小米官网" />
-    <MESSAGE value="开始完善小米官网." />
     <MESSAGE value="开始完善小米官网.." />
-    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网.." />
+    <MESSAGE value="开始完善小米官网." />
+    <option name="LAST_COMMIT_MESSAGE" value="开始完善小米官网." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1030,8 +1038,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        <state relative-caret-position="589">
+          <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
           <folding />
         </state>
       </provider>

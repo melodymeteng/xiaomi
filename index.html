@@ -12,32 +12,32 @@
     <div class="banner">
         <a href="#"></a>
     </div>
-<div class="nav">
-    <div class="wrapper" >
-        <ul class="main-menu" >
-            <li><a href="#">小米商城</a><span class="sep">|</span></li>
-            <li><a href="#">MIUI</a><span class="sep">|</span></li>
-            <li><a href="#">米聊</a><span class="sep">|</span></li>
-            <li><a href="#">游戏</a><span class="sep">|</span></li>
-            <li><a href="#">多看阅读</a><span class="sep">|</span></li>
-            <li><a href="#">云服务</a><span class="sep">|</span></li>
-            <li><a href="#">金融</a><span class="sep">|</span></li>
-            <li><a href="#">米币</a><span class="sep">|</span></li>
-            <li><a href="#">小米商城手机版</a><span class="sep">|</span></li>
-            <li><a href="#">问题反馈</a><span class="sep">|</span></li>
-            <li><a href="#">Select Region</a></li>
-        </ul>
-        <ul class="user-info">
-            <li><a href="#">登录</a><span class="sep">|</span></li>
-            <li><a href="#">注册</a><span class="sep">|</span></li>
-            <li><a href="#">消息通知</a><span class="sep">|</span></li>
-            <li class="cart">
-                <a href="#"><i class="  iconfont icon-gouwuche"></i>&nbsp;购物车(0)</a>
-                <div class="cart-box"></div>
-            </li>
-        </ul>
+    <div class="nav">
+        <div class="wrapper" >
+            <ul class="main-menu" >
+                <li><a href="#">小米商城</a><span class="sep">|</span></li>
+                <li><a href="#">MIUI</a><span class="sep">|</span></li>
+                <li><a href="#">米聊</a><span class="sep">|</span></li>
+                <li><a href="#">游戏</a><span class="sep">|</span></li>
+                <li><a href="#">多看阅读</a><span class="sep">|</span></li>
+                <li><a href="#">云服务</a><span class="sep">|</span></li>
+                <li><a href="#">金融</a><span class="sep">|</span></li>
+                <li><a href="#">米币</a><span class="sep">|</span></li>
+                <li><a href="#">小米商城手机版</a><span class="sep">|</span></li>
+                <li><a href="#">问题反馈</a><span class="sep">|</span></li>
+                <li><a href="#">Select Region</a></li>
+            </ul>
+            <ul class="user-info">
+                <li><a href="#">登录</a><span class="sep">|</span></li>
+                <li><a href="#">注册</a><span class="sep">|</span></li>
+                <li><a href="#">消息通知</a><span class="sep">|</span></li>
+                <li class="cart">
+                    <a href="#"><i class="  iconfont icon-gouwuche"></i>&nbsp;购物车(0)</a>
+                    <div class="cart-box"></div>
+                </li>
+            </ul>
+        </div>
     </div>
-</div>
 
     <div class="header">
         <div class="wrapper">
@@ -854,7 +854,7 @@
         </div>
         <div class="slide">
             <div class="img-box" >
-                <a href="#"><img src="img/xmad_15077710101165_EjQbI.jpg" alt=""></a>
+                <a class="selected" href="#"><img src="img/xmad_15077710101165_EjQbI.jpg" alt=""></a>
                 <a href="#"><img src="img/xmad_15077710101165_EjQbI.jpg" alt=""></a>
                 <a href="#"><img src="img/xmad_15077710101165_EjQbI.jpg" alt=""></a>
                 <a href="#"><img src="img/xmad_15077710101165_EjQbI.jpg" alt=""></a>
@@ -863,8 +863,8 @@
             </div>
             <i class="iconfont icon-back  prev-btn"></i>
             <i class="iconfont icon-gengduo  next-btn"></i>
-            <ul class="btns">
-                <li></li>
+            <ul id="btn">
+                <li class="selected"></li>
                 <li></li>
                 <li></li>
                 <li></li>
@@ -1803,6 +1803,7 @@
         </ul>
     </div>
 </div>
+    <script src="js/index.js" type="text/javascript"></script>
 </body>
 </html>
 <!--背景加载图片和IMG加载都是加载一次因为会有缓存只需要加载一次-->
